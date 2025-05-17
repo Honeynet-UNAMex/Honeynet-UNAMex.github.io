@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags/Blog on Honeynet UNAMex</title>
-    <link>https://honeynet.org.mx:1313/tags/blog/</link>
+    <link>https://dev.honeynet.org.mx/tags/blog/</link>
     <description>Recent content in Tags/Blog on Honeynet UNAMex</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Sat, 17 May 2025 17:42:27 +0000</lastBuildDate>
-    <atom:link href="https://honeynet.org.mx:1313/tags/blog/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://dev.honeynet.org.mx/tags/blog/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>We are back!</title>
-      <link>https://honeynet.org.mx:1313/posts/blog-post-1/</link>
+      <link>https://dev.honeynet.org.mx/posts/blog-post-1/</link>
       <pubDate>Sat, 17 May 2025 00:00:00 +0000</pubDate>
-      <guid>https://honeynet.org.mx:1313/posts/blog-post-1/</guid>
+      <guid>https://dev.honeynet.org.mx/posts/blog-post-1/</guid>
       <description>A new beginning</description>
     </item>
   </channel>

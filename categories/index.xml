@@ -2,24 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on Honeynet UNAMex</title>
-    <link>https://honeynet.org.mx:1313/categories/</link>
+    <link>https://dev.honeynet.org.mx/categories/</link>
     <description>Recent content in Categories on Honeynet UNAMex</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Sat, 17 May 2025 17:42:27 +0000</lastBuildDate>
-    <atom:link href="https://honeynet.org.mx:1313/categories/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://dev.honeynet.org.mx/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Categories/News</title>
-      <link>https://honeynet.org.mx:1313/categories/news/</link>
+      <link>https://dev.honeynet.org.mx/categories/news/</link>
       <pubDate>Sat, 17 May 2025 10:05:00 +0000</pubDate>
-      <guid>https://honeynet.org.mx:1313/categories/news/</guid>
+      <guid>https://dev.honeynet.org.mx/categories/news/</guid>
       <description></description>
     </item>
     <item>
       <title>Categories/Blog</title>
-      <link>https://honeynet.org.mx:1313/categories/blog/</link>
+      <link>https://dev.honeynet.org.mx/categories/blog/</link>
       <pubDate>Sat, 17 May 2025 00:00:00 +0000</pubDate>
-      <guid>https://honeynet.org.mx:1313/categories/blog/</guid>
+      <guid>https://dev.honeynet.org.mx/categories/blog/</guid>
       <description></description>
     </item>
   </channel>

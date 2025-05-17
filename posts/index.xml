@@ -2,24 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on Honeynet UNAMex</title>
-    <link>https://honeynet.org.mx:1313/posts/</link>
+    <link>https://dev.honeynet.org.mx/posts/</link>
     <description>Recent content in Posts on Honeynet UNAMex</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Sat, 17 May 2025 17:42:27 +0000</lastBuildDate>
-    <atom:link href="https://honeynet.org.mx:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://dev.honeynet.org.mx/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>UNAMex participation in The Honeynet Project Workshop 2025!</title>
-      <link>https://honeynet.org.mx:1313/posts/thp-workshop2025/</link>
+      <link>https://dev.honeynet.org.mx/posts/thp-workshop2025/</link>
       <pubDate>Sat, 17 May 2025 10:05:00 +0000</pubDate>
-      <guid>https://honeynet.org.mx:1313/posts/thp-workshop2025/</guid>
+      <guid>https://dev.honeynet.org.mx/posts/thp-workshop2025/</guid>
       <description>A new beginning</description>
     </item>
     <item>
       <title>We are back!</title>
-      <link>https://honeynet.org.mx:1313/posts/blog-post-1/</link>
+      <link>https://dev.honeynet.org.mx/posts/blog-post-1/</link>
       <pubDate>Sat, 17 May 2025 00:00:00 +0000</pubDate>
-      <guid>https://honeynet.org.mx:1313/posts/blog-post-1/</guid>
+      <guid>https://dev.honeynet.org.mx/posts/blog-post-1/</guid>
       <description>A new beginning</description>
     </item>
   </channel>
