@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Honeynet UNAMex</title>
+    <link>http://172.16.10.12:1313/</link>
+    <description>Recent content on Honeynet UNAMex</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 17 May 2025 10:05:00 +0000</lastBuildDate>
+    <atom:link href="http://172.16.10.12:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>UNAMex participation in The Honeynet Project Workshop 2025!</title>
+      <link>http://172.16.10.12:1313/posts/thp-workshop2025/</link>
+      <pubDate>Sat, 17 May 2025 10:05:00 +0000</pubDate>
+      <guid>http://172.16.10.12:1313/posts/thp-workshop2025/</guid>
+      <description>A new beginning</description>
+    </item>
+    <item>
+      <title>About Honeynet UNAMex Team</title>
+      <link>http://172.16.10.12:1313/members/</link>
+      <pubDate>Sat, 17 May 2025 00:00:00 +0000</pubDate>
+      <guid>http://172.16.10.12:1313/members/</guid>
+      <description>&lt;h1 id=&#34;honeynet-unamex&#34;&gt;Honeynet UNAMex&lt;/h1&gt;&#xA;&lt;h1 id=&#34;our-team&#34;&gt;Our Team&lt;/h1&gt;&#xA;&lt;h2 id=&#34;javier-santillan&#34;&gt;Javier Santillan&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://www.linkedin.com/in/javier-santillan/&#34;&gt;LinkedIn&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;mailto:jusafing@honeynet.org.mx&#34;&gt;jusafing@honeynet.org.mx&lt;/a&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;sergio-anduin-tovar-balderas&#34;&gt;Sergio Anduin Tovar Balderas&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;a href=&#34;#&#34;&gt;LinkedIn&lt;/a&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;paulo-santiago-de-jesús-contreras-flores&#34;&gt;Paulo Santiago de Jesús Contreras Flores&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://www.fciencias.unam.mx/directorio/82741&#34;&gt;Website&lt;/a&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;sergio-andres-becerril-lopez&#34;&gt;Sergio Andres Becerril Lopez&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://www.linkedin.com/in/dolphone/&#34;&gt;LinkedIn&lt;/a&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;tonatihu-sanchez&#34;&gt;Tonatihu Sanchez&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://www.linkedin.com/in/tonatihu-s%C3%A1nchez-104867a7/&#34;&gt;LinkedIn&lt;/a&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;ivan-galindo&#34;&gt;Ivan Galindo&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;a href=&#34;#&#34;&gt;LinkedIn&lt;/a&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+    </item>
+    <item>
+      <title>Analytics</title>
+      <link>http://172.16.10.12:1313/analytics/</link>
+      <pubDate>Sat, 17 May 2025 00:00:00 +0000</pubDate>
+      <guid>http://172.16.10.12:1313/analytics/</guid>
+      <description>&lt;h1 id=&#34;analytics&#34;&gt;Analytics&lt;/h1&gt;&#xA;&lt;p&gt;Stay tuned. We will be posting details of our current projects.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>We are back!</title>
+      <link>http://172.16.10.12:1313/posts/blog-post-1/</link>
+      <pubDate>Sat, 17 May 2025 00:00:00 +0000</pubDate>
+      <guid>http://172.16.10.12:1313/posts/blog-post-1/</guid>
+      <description>A new beginning</description>
+    </item>
+    <item>
+      <title>About Honeynet UNAMex Team</title>
+      <link>http://172.16.10.12:1313/about/</link>
+      <pubDate>Thu, 15 May 2025 00:00:00 +0000</pubDate>
+      <guid>http://172.16.10.12:1313/about/</guid>
+      <description>&lt;h1 id=&#34;honeynet-unamex&#34;&gt;Honeynet UNAMex&lt;/h1&gt;&#xA;&lt;hr&gt;&#xA;&lt;h1 id=&#34;who-are-we&#34;&gt;Who are we?&lt;/h1&gt;&#xA;&lt;p&gt;Honeynet UNAMex is a cybersecurity research group organized by volunteers with diverse background such as DFIR, Threat Hunting, System Administration, Threat Intel and Cyber-Deception/Honeypots.&lt;/p&gt;&#xA;&lt;p&gt;Our team is based in Mexico and The Netherlands. Members and collaborators come from well-known organizations (such as former &lt;em&gt;UNAM-CERT&lt;/em&gt; and &lt;em&gt;Honeynet Project UNAM-Chapter&lt;/em&gt;) and from the industry on active roles within Cybersecurity.&lt;/p&gt;&#xA;&lt;p&gt;Our main focus areas are:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Deception/Honeypot research and development&lt;/li&gt;&#xA;&lt;li&gt;Threat Detection Engineering&lt;/li&gt;&#xA;&lt;li&gt;Network Security&lt;/li&gt;&#xA;&lt;li&gt;Network Forensics&lt;/li&gt;&#xA;&lt;li&gt;Malware analysis&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;&lt;strong&gt;As you may read below in the history of the team, even though this is a new chapter starting in 2025, the background of our team comes back from the early 2000s.&lt;/strong&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Honeypot and Deception</title>
+      <link>http://172.16.10.12:1313/deception/</link>
+      <pubDate>Sun, 04 May 2025 00:00:00 +0000</pubDate>
+      <guid>http://172.16.10.12:1313/deception/</guid>
+      <description>&lt;h1 id=&#34;honeynet-and-deception-initiative&#34;&gt;Honeynet and Deception initiative&lt;/h1&gt;&#xA;&lt;p&gt;&lt;img src=&#34;http://172.16.10.12:1313/images/logo_honeynet_simple.png&#34; alt=&#34;image info&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;Stay tuned. We will be posting details of our current projects.&lt;/p&gt;&#xA;&lt;p&gt;In a nutshell, we will be working on:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Honeypot network deployment within academic networks and other locations&lt;/li&gt;&#xA;&lt;li&gt;Development of new versions of the outdated/legacy tools developed during UNAM-Chapter era&lt;/li&gt;&#xA;&lt;li&gt;Research, testing and development of new tooling with the new honeypot/deception trends&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+    </item>
+    <item>
+      <title>Collaboration</title>
+      <link>http://172.16.10.12:1313/collaboration/</link>
+      <pubDate>Mon, 17 Mar 2025 00:00:00 +0000</pubDate>
+      <guid>http://172.16.10.12:1313/collaboration/</guid>
+      <description>&lt;h1 id=&#34;collaboration&#34;&gt;Collaboration&lt;/h1&gt;&#xA;&lt;p&gt;&lt;img src=&#34;http://172.16.10.12:1313/images/logo_honeynet_simple.png&#34; alt=&#34;image info&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;Stay tuned. We will be posting details of our current projects.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Plan de Sensores de Trafico Malicioso</title>
+      <link>http://172.16.10.12:1313/projects/pstm-old/</link>
+      <pubDate>Mon, 17 Mar 2025 00:00:00 +0000</pubDate>
+      <guid>http://172.16.10.12:1313/projects/pstm-old/</guid>
+      <description>&lt;h1 id=&#34;plan-de-sensores-de-trafico-malicioso-archive&#34;&gt;Plan de Sensores de Trafico Malicioso (Archive)&lt;/h1&gt;&#xA;&lt;p&gt;&lt;img src=&#34;http://172.16.10.12:1313/images/logo_honeynet_simple.png&#34; alt=&#34;image info&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;Stay tuned. We will be posting details of our current projects.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>PSTM</title>
+      <link>http://172.16.10.12:1313/projects/pstm/</link>
+      <pubDate>Mon, 17 Mar 2025 00:00:00 +0000</pubDate>
+      <guid>http://172.16.10.12:1313/projects/pstm/</guid>
+      <description>&lt;h1 id=&#34;pstm&#34;&gt;PSTM&lt;/h1&gt;&#xA;&lt;p&gt;&lt;img src=&#34;http://172.16.10.12:1313/images/logo_honeynet_simple.png&#34; alt=&#34;image info&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;Stay tuned. We will be posting details of our current projects.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>UNAM Security Telescope</title>
+      <link>http://172.16.10.12:1313/projects/tsu/</link>
+      <pubDate>Mon, 17 Mar 2025 00:00:00 +0000</pubDate>
+      <guid>http://172.16.10.12:1313/projects/tsu/</guid>
+      <description>&lt;h1 id=&#34;unam-security-telescope-archive&#34;&gt;UNAM Security Telescope (Archive)&lt;/h1&gt;&#xA;&lt;p&gt;&lt;img src=&#34;http://172.16.10.12:1313/images/logo_honeynet_simple.png&#34; alt=&#34;image info&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;Stay tuned. We will be posting details of our current projects.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>UNAM-Darknet</title>
+      <link>http://172.16.10.12:1313/projects/darknet-unam/</link>
+      <pubDate>Mon, 17 Mar 2025 00:00:00 +0000</pubDate>
+      <guid>http://172.16.10.12:1313/projects/darknet-unam/</guid>
+      <description>&lt;h1 id=&#34;unam-darknet-archive&#34;&gt;UNAM-Darknet (Archive)&lt;/h1&gt;&#xA;&lt;p&gt;&lt;img src=&#34;http://172.16.10.12:1313/images/logo_honeynet_simple.png&#34; alt=&#34;image info&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;Stay tuned. We will be posting details of our current projects.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Blog</title>
+      <link>http://172.16.10.12:1313/blog/</link>
+      <pubDate>Sat, 18 Dec 2021 11:10:36 +0800</pubDate>
+      <guid>http://172.16.10.12:1313/blog/</guid>
+      <description>&lt;h2 id=&#34;tailwindcsstypography&#34;&gt;@tailwindcss/typography&lt;/h2&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://github.com/tailwindlabs/tailwindcss-typography&#34;&gt;View on GitHub&lt;/a&gt;!&lt;/p&gt;&#xA;&lt;p&gt;Beautiful typographic defaults for HTML you don&amp;rsquo;t control.&lt;/p&gt;&#xA;&lt;p&gt;The official Tailwind CSS Typography plugin provides a set of prose classes you can use to add beautiful typographic defaults to any vanilla HTML you don’t control, like HTML rendered from Markdown, or pulled from a CMS.&lt;/p&gt;&#xA;&lt;p&gt;Tailwind CSS IntelliSense extension for Visual Studio Code&lt;/p&gt;&#xA;&lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt;&amp;lt;article class=&amp;#34;prose lg:prose-xl&amp;#34;&amp;gt;&#xD;&#xA;  {{ markdown }}&#xD;&#xA;&amp;lt;/article&amp;gt;&#xA;&lt;/code&gt;&lt;/pre&gt;&lt;p&gt;To see what it looks like in action, check out our &lt;a href=&#34;https://play.tailwindcss.com/uj1vGACRJA?layout=preview&#34;&gt;live demo&lt;/a&gt; on Tailwind Play.&#xA;​&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Contact</title>
+      <link>http://172.16.10.12:1313/contact/</link>
+      <pubDate>Sat, 18 Dec 2021 03:10:36 +0000</pubDate>
+      <guid>http://172.16.10.12:1313/contact/</guid>
+      <description>&lt;h2 id=&#34;address&#34;&gt;Address&lt;/h2&gt;&#xA;&lt;p&gt;UNAM Campus CU,  C.P. 04510, Coyoacan, CDMX. Mexico&lt;/p&gt;&#xA;&lt;h2 id=&#34;email&#34;&gt;Email&lt;/h2&gt;&#xA;&lt;p&gt;&lt;a href=&#34;mailto:contact@honeynet.org.mx&#34;&gt;contact@honeynet.org.mx&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Projects</title>
+      <link>http://172.16.10.12:1313/projects/</link>
+      <pubDate>Sat, 18 Dec 2021 11:10:36 +0800</pubDate>
+      <guid>http://172.16.10.12:1313/projects/</guid>
+      <description>&lt;h2 id=&#34;tailwindcsstypography&#34;&gt;@tailwindcss/typography&lt;/h2&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://github.com/tailwindlabs/tailwindcss-typography&#34;&gt;View on GitHub&lt;/a&gt;!&lt;/p&gt;&#xA;&lt;p&gt;Beautiful typographic defaults for HTML you don&amp;rsquo;t control.&lt;/p&gt;&#xA;&lt;p&gt;The official Tailwind CSS Typography plugin provides a set of prose classes you can use to add beautiful typographic defaults to any vanilla HTML you don’t control, like HTML rendered from Markdown, or pulled from a CMS.&lt;/p&gt;&#xA;&lt;p&gt;Tailwind CSS IntelliSense extension for Visual Studio Code&lt;/p&gt;&#xA;&lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt;&amp;lt;article class=&amp;#34;prose lg:prose-xl&amp;#34;&amp;gt;&#xD;&#xA;  {{ markdown }}&#xD;&#xA;&amp;lt;/article&amp;gt;&#xA;&lt;/code&gt;&lt;/pre&gt;&lt;p&gt;To see what it looks like in action, check out our &lt;a href=&#34;https://play.tailwindcss.com/uj1vGACRJA?layout=preview&#34;&gt;live demo&lt;/a&gt; on Tailwind Play.&#xA;​&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Prose</title>
+      <link>http://172.16.10.12:1313/prose/</link>
+      <pubDate>Sat, 18 Dec 2021 11:10:36 +0800</pubDate>
+      <guid>http://172.16.10.12:1313/prose/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>
