@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Honeynet UNAMex</title>
+    <title>Honeynet UNAMex Lab</title>
     <link>https://honeynet.org.mx/</link>
-    <description>Recent content on Honeynet UNAMex</description>
+    <description>Recent content on Honeynet UNAMex Lab</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 17 May 2025 22:56:44 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 18 May 2025 14:36:41 +0000</lastBuildDate>
     <atom:link href="https://honeynet.org.mx/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>UNAMex participation in The Honeynet Project Workshop 2025!</title>
@@ -37,11 +37,11 @@
       <description>A new beginning</description>
     </item>
     <item>
-      <title>About Honeynet UNAMex Team</title>
+      <title>About the team</title>
       <link>https://honeynet.org.mx/about/</link>
       <pubDate>Thu, 15 May 2025 00:00:00 +0000</pubDate>
       <guid>https://honeynet.org.mx/about/</guid>
-      <description>&lt;h1 id=&#34;honeynet-unamex&#34;&gt;Honeynet UNAMex&lt;/h1&gt;&#xA;&lt;hr&gt;&#xA;&lt;h1 id=&#34;who-are-we&#34;&gt;Who are we?&lt;/h1&gt;&#xA;&lt;p&gt;Honeynet UNAMex is a cybersecurity research group organized by volunteers with diverse backgrounds such as DFIR, Threat Hunting, System Administration, Threat Intel and Cyber-Deception/Honeypots.&lt;/p&gt;&#xA;&lt;p&gt;Our team is based in Mexico and The Netherlands. Members and collaborators come from well-known organizations (such as former &lt;em&gt;UNAM-CERT&lt;/em&gt; and &lt;em&gt;Honeynet Project UNAM-Chapter&lt;/em&gt;) and from the industry on active roles within Cybersecurity.&lt;/p&gt;&#xA;&lt;p&gt;Our main focus areas are:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Deception/Honeypot research and development&lt;/li&gt;&#xA;&lt;li&gt;Threat Detection Engineering&lt;/li&gt;&#xA;&lt;li&gt;Network Security&lt;/li&gt;&#xA;&lt;li&gt;Network Forensics&lt;/li&gt;&#xA;&lt;li&gt;Malware analysis&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;&lt;strong&gt;As you may readin the team&amp;rsquo;s history below, while this marks a new chapter in 2025, our roots trace back to the early 2000s.&lt;/strong&gt;&lt;/p&gt;</description>
+      <description>&lt;h1 id=&#34;honeynet-unamex-lab&#34;&gt;&lt;strong&gt;Honeynet UNAMex Lab&lt;/strong&gt;&lt;/h1&gt;&#xA;&lt;hr&gt;&#xA;&lt;h1 id=&#34;who-are-we&#34;&gt;Who are we?&lt;/h1&gt;&#xA;&lt;p&gt;&lt;ins&gt;&lt;strong&gt;Honeynet UNAMex Lab&lt;/strong&gt;&lt;/ins&gt; is an independent, open research cybersecurity group organized by volunteers with diverse backgrounds, including DFIR, Threat Hunting, System Administration, Threat Intelligence, and Cyber Deception/Honeypots.&lt;/p&gt;&#xA;&lt;p&gt;Our &lt;a href=&#34;https://honeynet.org.mx/members&#34;&gt;members and collaborators&lt;/a&gt; come from both industry and academia. The team&amp;rsquo;s roots trace back to projects developed or inspired by work within the former &lt;a href=&#34;https://www.cert.org.mx&#34;&gt;&lt;strong&gt;UNAM-CERT&lt;/strong&gt;&lt;/a&gt; and &lt;a href=&#34;https://honeynet.org&#34;&gt;&lt;strong&gt;The Honeynet Project&lt;/strong&gt;&lt;/a&gt; as &lt;a href=&#34;https://www.honeynet.unam.mx&#34;&gt;&lt;strong&gt;UNAM Chapter&lt;/strong&gt;&lt;/a&gt; (&lt;a href=&#34;https://archive.honeynet.org.mx&#34;&gt;&lt;em&gt;Mirror archive&lt;/em&gt;&lt;/a&gt;).&lt;/p&gt;&#xA;&lt;h2 id=&#34;our-main-focus-areas-include&#34;&gt;Our Main Focus Areas Include:&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Deception and Honeypot Research &amp;amp; Development&lt;/li&gt;&#xA;&lt;li&gt;Threat Detection Engineering&lt;/li&gt;&#xA;&lt;li&gt;Network Security&lt;/li&gt;&#xA;&lt;li&gt;Network Forensics&lt;/li&gt;&#xA;&lt;li&gt;Malware Analysis&lt;/li&gt;&#xA;&lt;li&gt;Yes.. AI and CyberSecurity (&lt;em&gt;LLM-based deception/honeypot, LLM Security, etc&lt;/em&gt;)&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;Our members and collaborators come from both industry and academia. The team&amp;rsquo;s roots trace back to projects developed or inspired by work within the former &lt;strong&gt;UNAM-CERT&lt;/strong&gt; and &lt;strong&gt;The Honeynet Project&lt;/strong&gt; as the &lt;strong&gt;UNAM Chapter&lt;/strong&gt; ([Mirror archive]).&lt;/p&gt;</description>
     </item>
     <item>
       <title>Honeypot and Deception</title>
@@ -72,18 +72,18 @@
       <description>&lt;h1 id=&#34;pstm&#34;&gt;PSTM&lt;/h1&gt;&#xA;&lt;p&gt;&lt;img src=&#34;https://honeynet.org.mx/images/logo_honeynet_simple.png&#34; alt=&#34;image info&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;Stay tuned. We will be posting details of our current projects.&lt;/p&gt;</description>
     </item>
     <item>
+      <title>UNAM Darknet</title>
+      <link>https://honeynet.org.mx/projects/darknet-unam/</link>
+      <pubDate>Mon, 17 Mar 2025 00:00:00 +0000</pubDate>
+      <guid>https://honeynet.org.mx/projects/darknet-unam/</guid>
+      <description>&lt;h1 id=&#34;unam-darknet-archive&#34;&gt;UNAM Darknet (Archive)&lt;/h1&gt;&#xA;&lt;p&gt;&lt;img src=&#34;https://honeynet.org.mx/images/logo_honeynet_simple.png&#34; alt=&#34;image info&#34;&gt;&lt;/p&gt;&#xA;&lt;h2 id=&#34;background&#34;&gt;Background&lt;/h2&gt;&#xA;&lt;p&gt;Back in 2009-2010, the Intrusion Detection department of &lt;strong&gt;UNAM-CERT&lt;/strong&gt; designed and developed the &lt;ins&gt;&lt;strong&gt;UNAM Security Telescope&lt;/strong&gt;&lt;/ins&gt;, a hybrid of a network telescope and a large-scale honeypot/sinkhole darknet. It featured dynamic public IP assignment, managing approximately 45,000 to 50,000 public IP addresses via NOC routing.&lt;/p&gt;&#xA;&lt;p&gt;This Security Telescope enabled the collection of valuable data that was transformed into actionable security intelligence used for incident response, monitoring, detection logic development, and malware analysis.&lt;/p&gt;</description>
+    </item>
+    <item>
       <title>UNAM Security Telescope</title>
       <link>https://honeynet.org.mx/projects/tsu/</link>
       <pubDate>Mon, 17 Mar 2025 00:00:00 +0000</pubDate>
       <guid>https://honeynet.org.mx/projects/tsu/</guid>
-      <description>&lt;h1 id=&#34;unam-security-telescope-archive&#34;&gt;UNAM Security Telescope (Archive)&lt;/h1&gt;&#xA;&lt;p&gt;&lt;img src=&#34;https://honeynet.org.mx/images/logo_honeynet_simple.png&#34; alt=&#34;image info&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;Stay tuned. We will be posting details of our current projects.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>UNAM-Darknet</title>
-      <link>https://honeynet.org.mx/projects/darknet-unam/</link>
-      <pubDate>Mon, 17 Mar 2025 00:00:00 +0000</pubDate>
-      <guid>https://honeynet.org.mx/projects/darknet-unam/</guid>
-      <description>&lt;h1 id=&#34;unam-darknet-archive&#34;&gt;UNAM-Darknet (Archive)&lt;/h1&gt;&#xA;&lt;p&gt;&lt;img src=&#34;https://honeynet.org.mx/images/logo_honeynet_simple.png&#34; alt=&#34;image info&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;Stay tuned. We will be posting details of our current projects.&lt;/p&gt;</description>
+      <description>&lt;h1 id=&#34;unam-security-telescope-archive&#34;&gt;UNAM Security Telescope (Archive)&lt;/h1&gt;&#xA;&lt;p&gt;&lt;img src=&#34;https://honeynet.org.mx/images/logo_honeynet_simple.png&#34; alt=&#34;image info&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;Back in 2009-2010, the Intrusion Detection department of the UNAM-CERT, designed and developed the &lt;ins&gt;&lt;strong&gt;UNAM Security Telescope&lt;/strong&gt;&lt;/ins&gt;, which was a hybrid of a Network Telescope and a large-scale Honeypot/Sinkhole Darknet with dynamic public IP assigment (between around 45-50k public IP addresses via NOC routing).&lt;/p&gt;&#xA;&lt;p&gt;This Security Telescope allowed to gather very valuable data which was translated into security intelligence to action incident reponse, monitoring, detection logics and malware analysis.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Blog</title>

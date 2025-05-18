@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts on Honeynet UNAMex</title>
+    <title>Posts on Honeynet UNAMex Lab</title>
     <link>https://honeynet.org.mx/posts/</link>
-    <description>Recent content in Posts on Honeynet UNAMex</description>
+    <description>Recent content in Posts on Honeynet UNAMex Lab</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 17 May 2025 17:42:27 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 18 May 2025 14:36:41 +0000</lastBuildDate>
     <atom:link href="https://honeynet.org.mx/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>UNAMex participation in The Honeynet Project Workshop 2025!</title>

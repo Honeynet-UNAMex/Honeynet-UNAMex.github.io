@@ -12,16 +12,16 @@
 <link rel="mask-icon" href="https://honeynet.org.mx/favicon/safari-pinned-tab.svg" color="#5bbad5">
 <meta name="msapplication-TileColor" content="#da532c">
 <meta name="theme-color" content="#ffffff">
-<title itemprop="name"> UNAM-Darknet | Honeynet UNAMex 
+<title itemprop="name"> UNAM Darknet | Honeynet UNAMex Lab 
 </title>
-<meta name="description" content="UNAM-Darknet (Archive)" />
-<meta property="og:title" content="UNAM-Darknet | Honeynet UNAMex" />
-<meta name="twitter:title" content="UNAM-Darknet | Honeynet UNAMex" />
-<meta itemprop="name" content="UNAM-Darknet | Honeynet UNAMex" />
-<meta name="application-name" content="UNAM-Darknet | Honeynet UNAMex" />
+<meta name="description" content="UNAM Darknet (archive)" />
+<meta property="og:title" content="UNAM Darknet | Honeynet UNAMex Lab" />
+<meta name="twitter:title" content="UNAM Darknet | Honeynet UNAMex Lab" />
+<meta itemprop="name" content="UNAM Darknet | Honeynet UNAMex Lab" />
+<meta name="application-name" content="UNAM Darknet | Honeynet UNAMex Lab" />
 <meta property="og:description"
-      content="UNAM-Darknet (Archive)" />
-<meta property="og:site_name" content="Honeynet UNAMex" />
+      content="UNAM Darknet (archive)" />
+<meta property="og:site_name" content="Honeynet UNAMex Lab" />
 <meta property="og:url" content="https://honeynet.org.mx/projects/darknet-unam/" />
 <meta property="og:locale" content="en">
 <meta property="og:image" content="/images/tailbliss-cover.png" />
@@ -48,9 +48,9 @@
     <div x-data="{ open: false }" class="flex flex-col max-w-full px-4 mx-auto md:items-center md:justify-between md:flex-row md:px-6 lg:px-8">
         <div class="flex flex-row items-center justify-between p-4">
             <a href="https://honeynet.org.mx/" class="flex text-gray-100 transition duration-1000 ease-in-out group">
-                <img src="https://honeynet.org.mx/images/logo_honeynet_simple.png" class="transition-opacity h-9 w-9 group-hover:opacity-50 group-focus:opacity-70" alt="Honeynet UNAMex Logo" />
+                <img src="https://honeynet.org.mx/images/logo_honeynet_simple.png" class="transition-opacity h-9 w-9 group-hover:opacity-50 group-focus:opacity-70" alt="Honeynet UNAMex Lab Logo" />
                 <div class="mt-1 ml-3 text-xl font-black tracking-tight text-gray-100 uppercase transition-colors group-hover:text-gray-400/60">
-                    Honeynet UNAMex</div>
+                    Honeynet UNAMex Lab</div>
             </a>
             <button class="rounded-lg md:hidden focus:outline-none focus:shadow-outline" @click="open = !open" role="navigation" aria-expanded="false" aria-label="Main" aria-controls="menuItems">
                 <svg fill="currentColor" viewBox="0 0 20 20" class="w-6 h-6">
@@ -101,7 +101,7 @@
                                 </div>
                                 <div class="ml-3">
                                     <p class="font-semibold">Members</p>
-                                    <p class="text-sm">UNAMex Members</p>
+                                    <p class="text-sm">Honeynet UNAMex Lab Members</p>
                                 </div>
                             </a>
                             
@@ -349,7 +349,7 @@
   <header class="mb-4 bg-primary-600">
     <span class="py-96">
       <h1 class="py-16 text-5xl font-black text-center text-white capitalize">
-        UNAM-Darknet
+        UNAM Darknet
       </h1>
     </span>
   </header>
@@ -360,9 +360,105 @@
   </div>
   
   <div class="max-w-2xl px-6 pt-6 pb-16 mx-auto prose dark:prose-invert dark:text-white">
-    <h1 id="unam-darknet-archive">UNAM-Darknet (Archive)</h1>
+    <h1 id="unam-darknet-archive">UNAM Darknet (Archive)</h1>
 <p><img src="https://honeynet.org.mx/images/logo_honeynet_simple.png" alt="image info"></p>
-<p>Stay tuned. We will be posting details of our current projects.</p>
+<h2 id="background">Background</h2>
+<p>Back in 2009-2010, the Intrusion Detection department of <strong>UNAM-CERT</strong> designed and developed the <ins><strong>UNAM Security Telescope</strong></ins>, a hybrid of a network telescope and a large-scale honeypot/sinkhole darknet. It featured dynamic public IP assignment, managing approximately 45,000 to 50,000 public IP addresses via NOC routing.</p>
+<p>This Security Telescope enabled the collection of valuable data that was transformed into actionable security intelligence used for incident response, monitoring, detection logic development, and malware analysis.</p>
+<p>The <ins><strong>UNAM Darknet</strong></ins>, a core component of the Security Telescope, was refined over subsequent years. It was partially the result of a bachelor&rsquo;s thesis and graduation project from the <a href="https://www.ingenieria.unam.mx">Faculty of Engineering</a> at UNAM. The design was documented in the thesis by <em><a href="https://www.linkedin.com/in/javier-santillan/">Javier Santillan</a>, 2011</em>:</p>
+<ul>
+<li><a href="https://ru.dgb.unam.mx/bitstream/20.500.14330/TES01000671637/3/0671637_A1.pdf">Darknet, motor de detección de tráfico malicioso para el telescopio de seguridad de la UNAM</a> (<a href="https://honeynet.org.mx/files/unam-darknet-thesis-2011.pdf"><strong>Local Mirror</strong></a>)</li>
+</ul>
+<p>The first version of the UNAM-Darknet was developed and deployed between 2010–2011. It later served as a reference for data analysis and information exchange within the UNAM network and with external cybersecurity organizations, academic institutions, and <a href="https://honeynet.org">The Honeynet Project</a>.</p>
+<p><em><strong>Note: Even though this project is already outdated on its implementation, tools and data analysis techniques, its idea and design are still valid and feasible for new modern implementations using new tools and frameworks for data collection and analysis. In the near future, Honeynet UNAMex Lab will look for potential options to port a modern version o a Darknet-NG to be deployed within the available network IP space of the project.</strong></em></p>
+<hr>
+<h2 id="overall-design">Overall Design</h2>
+<p>The high-level architecture of the UNAM Security Telescope and UNAM-Darknet is shown below.</p>
+<p><img src="https://honeynet.org.mx/images/darknet-design.png" alt="UNAM-Darknet"></p>
+<p>The UNAM-Darknet was designed with the following primary modules:</p>
+<ul>
+<li>Honeypot module</li>
+<li>Network IDS module</li>
+<li>Network flow analysis module</li>
+</ul>
+<h2 id="unam-darknet-modules"><img src="https://honeynet.org.mx/images/darknet-modules.png" alt="UNAM-Darknet Modules"></h2>
+<h2 id="general-capabilities-of-the-detection-engine">General Capabilities of the Detection Engine</h2>
+<h3 id="threat-detection">Threat Detection</h3>
+<ul>
+<li>Identification of potentially suspicious traffic:
+<ul>
+<li>Scan detection (pattern-based)</li>
+<li>Worm, bot, and virus propagation (signature-based)</li>
+<li>Brute-force attacks</li>
+<li>Targeted attacks using spoofing techniques</li>
+<li>Botnet and P2P network activity detection</li>
+</ul>
+</li>
+</ul>
+<h3 id="malware-handling">Malware Handling</h3>
+<ul>
+<li>Malware capture</li>
+</ul>
+<h3 id="automated-network-traffic-analysis">Automated Network Traffic Analysis</h3>
+<ul>
+<li>Structured traffic analysis</li>
+<li>IDS alert correlation</li>
+</ul>
+<h3 id="statistical-information">Statistical Information</h3>
+<ul>
+<li>Network flow statistics</li>
+<li>Signature-based detection</li>
+<li>Detection of misconfigured devices</li>
+</ul>
+<h3 id="forensics">Forensics</h3>
+<ul>
+<li>Evidence collection and long-term storage</li>
+<li>Payload extraction and analysis</li>
+</ul>
+<h3 id="emerging-threats">Emerging Threats</h3>
+<ul>
+<li>Detection of new and evolving attack trends</li>
+</ul>
+<hr>
+<h2 id="darknet-modules">Darknet Modules</h2>
+<h3 id="honeypot-module">Honeypot Module</h3>
+<p>The UNAM Darknet Honeypot module was primarily based on well-known low-interaction honeypots of the time, which were fine-tuned for performance and consistency in data extraction. The main tools included:</p>
+<ul>
+<li><a href="https://github.com/tillmannw/honeytrap">Honeytrap</a> ( <em>A modified version of Honeytrap was used for performance purposes</em> )</li>
+<li><a href="https://dionaea.readthedocs.io/en/latest/">Dionaea</a></li>
+<li><a href="https://github.com/desaster/kippo">Kippo</a></li>
+</ul>
+<h3 id="structured-traffic-analysis-module">Structured Traffic Analysis Module</h3>
+<p>This module collected, parsed, and analyzed the network traffic captured by the Darknet. A full-packet collector processed the traffic to extract relevant information such as statistics, payloads, and IDS alerts.</p>
+<p>Primary tools used:</p>
+<ul>
+<li><a href="https://snort.org/">Snort</a> — Packet analysis and IDS alerting</li>
+<li><a href="https://openargus.org/">Argus</a> — Flow analysis and partial payload inspection</li>
+</ul>
+<p>The integration of the <strong>Honeypot Module</strong> and the <strong>Structured Traffic Analysis Module</strong> is illustrated in the following diagram:</p>
+<p><img src="https://honeynet.org.mx/images/darknet-sta-flow-integration.png" alt="UNAM-Darknet Honeypot/STA integration"></p>
+<p>The flow analysis module was implemented as follows:
+<img src="https://honeynet.org.mx/images/darknet-flowanalysis.png" alt="UNAM-Darknet Flow Analysis"></p>
+<p>Some of the results of the large-scale data/traffic collection and security intelligence processed:
+<img src="https://honeynet.org.mx/images/darknet-table-results.png" alt="UNAM-Darknet Result Summary"></p>
+<hr>
+<h1 id="references-and-resources">References and Resources</h1>
+<ul>
+<li>Presentation of UNAM Security Telescope during the UNAM DISC (International Day of Computer Security) 2009 :<a href="https://honeynet.org.mx/files/tsu-disc-2009.pdf">Local-Mirror</a>]</li>
+</ul>
+<object data="/files/tsu-disc-2009.pdf" type="application/pdf" width="700px" height="700px">
+    <embed src="https://honeynet.org.mx/files/tsu-disc-2009.pdf">
+        <p>This browser does not support PDFs. Please download the PDF to view it: <a href="https://honeynet.org.mx/files/tsu-disc-2009.pdf">Download PDF</a>.</p>
+    </embed>
+</object>
+<ul>
+<li>Presentation of UNAM Security Telescope during the UNAM Computer Security Conference 2010: [<a href="https://congreso.seguridad.unam.mx/2010/media/conferencias/confe_12.pdf">Source</a>] [<a href="https://honeynet.org.mx/files/tsu-csc-2010.pdf">Local-Mirror</a>]</li>
+</ul>
+<object data="/files/tsu-csc-2010.pdf" type="application/pdf" width="700px" height="700px">
+    <embed src="https://honeynet.org.mx/files/tsu-csc-2010.pdf">
+        <p>This browser does not support PDFs. Please download the PDF to view it: <a href="https://honeynet.org.mx/files/tsu-csc-2010.pdf">Download PDF</a>.</p>
+    </embed>
+</object>
 
   </div>
 </article>
@@ -416,7 +512,7 @@
             
         </div>
         <p class="mt-8 text-base text-center text-gray-400">&copy; 2025
-            Honeynet UNAMex. All rights
+            Honeynet UNAMex Lab. All rights
             reserved.</p>
     </div>
 </footer>
