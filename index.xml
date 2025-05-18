@@ -6,7 +6,7 @@
     <description>Recent content on Honeynet UNAMex Lab</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 18 May 2025 15:00:16 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 18 May 2025 22:25:06 +0000</lastBuildDate>
     <atom:link href="https://honeynet.org.mx/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>UNAMex participation in The Honeynet Project Workshop 2025!</title>
@@ -58,6 +58,20 @@
       <description>&lt;h1 id=&#34;collaboration&#34;&gt;Collaboration&lt;/h1&gt;&#xA;&lt;p&gt;&lt;img src=&#34;https://honeynet.org.mx/images/logo_honeynet_simple.png&#34; alt=&#34;image info&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;Stay tuned. We will be posting details of our current projects.&lt;/p&gt;</description>
     </item>
     <item>
+      <title>Passive Network Audit Framework - PNAF - HowTo (Archive)</title>
+      <link>https://honeynet.org.mx/projects/pnaf-howto/</link>
+      <pubDate>Mon, 17 Mar 2025 00:00:00 +0000</pubDate>
+      <guid>https://honeynet.org.mx/projects/pnaf-howto/</guid>
+      <description>&lt;h2 id=&#34;content&#34;&gt;&lt;strong&gt;CONTENT&lt;/strong&gt;&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;[Introduction]&lt;/li&gt;&#xA;&lt;li&gt;[General model of PNAF]&lt;/li&gt;&#xA;&lt;li&gt;[Installation modes]&#xA;&lt;ul&gt;&#xA;&lt;li&gt;[Installation with installer]&lt;/li&gt;&#xA;&lt;li&gt;[Installation with pre-configured Debian chroot tarball]&lt;/li&gt;&#xA;&lt;li&gt;[Installation with Virtual Machine image (OVA file)]&lt;/li&gt;&#xA;&lt;li&gt;[Installation as Perl module (advanced independent installation)]&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;[CONFIGURATION]&lt;/li&gt;&#xA;&lt;li&gt;[POC: PCAP file analysis]&#xA;&lt;ul&gt;&#xA;&lt;li&gt;[Initial execution]&lt;/li&gt;&#xA;&lt;li&gt;[General processing]&lt;/li&gt;&#xA;&lt;li&gt;[Specific processing]&lt;/li&gt;&#xA;&lt;li&gt;[Analysis and data interpretation]&#xA;&lt;ul&gt;&#xA;&lt;li&gt;[&lt;em&gt;Summary from command line (stdout)&lt;/em&gt;]&lt;/li&gt;&#xA;&lt;li&gt;[&lt;em&gt;Web interface&lt;/em&gt;]&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;hr&gt;&#xA;&lt;h1 id=&#34;introduction&#34;&gt;Introduction&lt;/h1&gt;&#xA;&lt;hr&gt;&#xA;&lt;p&gt;PNAF v0.1 public prototype is an implementation of a &lt;a href=&#34;http://www.tue.nl/&#34;&gt;TU/e&lt;/a&gt; masters thesis developed as internship project at Fox-IT B.V in The Netherlands. This public prototype DOES NOT include any internal information about TU/e nor Fox-IT.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Passive Network Audit Framework - PNAF (Archive)</title>
+      <link>https://honeynet.org.mx/projects/pnaf/</link>
+      <pubDate>Mon, 17 Mar 2025 00:00:00 +0000</pubDate>
+      <guid>https://honeynet.org.mx/projects/pnaf/</guid>
+      <description>&lt;h1 id=&#34;background&#34;&gt;Background&lt;/h1&gt;&#xA;&lt;p&gt;Passive Network Audit Framework is a project developed by &lt;a href=&#34;https://www.linkedin.com/in/javier-santillan/&#34;&gt;Javier Santillan&lt;/a&gt; (2014) as part of a graduation project of a MsC Program from &lt;a href=&#34;https://tue.nl&#34;&gt;Eindhoven University of Technology&lt;/a&gt; (The Netherlands) and a research internship within &lt;a href=&#34;https://fox-it.com&#34;&gt;Fox-IT B.V&lt;/a&gt;.&lt;/p&gt;&#xA;&lt;p&gt;The public version of PNAF was released in 2014 as a collaboration with Honeynet UNAM-Chapter and COSMIC Labs&lt;/p&gt;&#xA;&lt;h2 id=&#34;pnaf-framework-overview&#34;&gt;PNAF Framework Overview&lt;/h2&gt;&#xA;&lt;h3 id=&#34;original-reference&#34;&gt;Original reference&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Github : &lt;a href=&#34;https://www.github.com/jusafing/pnaf&#34;&gt;PNAF&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;Basic documentation: &lt;a href=&#34;https://github.com/jusafing/pnaf/blob/master/README.md&#34;&gt;Reference&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;Installation HowTo (&lt;em&gt;legacy&lt;/em&gt;)&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://archive.honeynet.org.mx/pnaf-0-1-2-basic-howto/index.html&#34;&gt;Archive 1&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://archive-cosmic.honeynet.org.mx/pnaf-0-1-2-basic-howto/index.html&#34;&gt;Archive 2&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://honeynet.org.mx/projects/pnaf-howto&#34;&gt;Local Archive&lt;/a&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;hr&gt;&#xA;&lt;h1 id=&#34;passive-network-audit-framework-pnaf-v012&#34;&gt;Passive Network Audit Framework (PNAF) v0.1.2&lt;/h1&gt;&#xA;&lt;hr&gt;&#xA;&lt;p&gt;Copyright (C) 2014 Javier Santillan&lt;/p&gt;</description>
+    </item>
+    <item>
       <title>Plan de Sensores de Trafico Malicioso</title>
       <link>https://honeynet.org.mx/projects/pstm-old/</link>
       <pubDate>Mon, 17 Mar 2025 00:00:00 +0000</pubDate>
@@ -84,6 +98,13 @@
       <pubDate>Mon, 17 Mar 2025 00:00:00 +0000</pubDate>
       <guid>https://honeynet.org.mx/projects/tsu/</guid>
       <description>&lt;h1 id=&#34;unam-security-telescope-archive&#34;&gt;UNAM Security Telescope (Archive)&lt;/h1&gt;&#xA;&lt;p&gt;&lt;img src=&#34;https://honeynet.org.mx/images/logo_honeynet_simple.png&#34; alt=&#34;image info&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;Back in 2009-2010, the Intrusion Detection department of &lt;strong&gt;UNAM-CERT&lt;/strong&gt; designed and developed the &lt;ins&gt;&lt;strong&gt;UNAM Security Telescope&lt;/strong&gt;&lt;/ins&gt;, a hybrid of a network telescope and a large-scale honeypot/sinkhole darknet. It featured dynamic public IP assignment, managing approximately 45,000 to 50,000 public IP addresses via NOC routing.&lt;/p&gt;&#xA;&lt;p&gt;This Security Telescope enabled the collection of valuable data that was transformed into actionable security intelligence used for incident response, monitoring, detection logic development, and malware analysis.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Cybersecurity MX</title>
+      <link>https://honeynet.org.mx/projects/cybersecurity-org-mx/</link>
+      <pubDate>Sun, 16 Mar 2025 00:00:00 +0000</pubDate>
+      <guid>https://honeynet.org.mx/projects/cybersecurity-org-mx/</guid>
+      <description>&lt;h1 id=&#34;cybersecurity-mx-initiative&#34;&gt;Cybersecurity MX initiative&lt;/h1&gt;&#xA;&lt;p&gt;Honeynet UNAMex Lab follows an initiative to track news and trends within the cybersecurity field that are related with the Mexican landscape.&lt;/p&gt;&#xA;&lt;p&gt;Reference: &lt;a href=&#34;http://cybersecurity.org.mx&#34;&gt;http://cybersecurity.org.mx&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;Stay tuned for more details&lt;/p&gt;</description>
     </item>
     <item>
       <title>Blog</title>
