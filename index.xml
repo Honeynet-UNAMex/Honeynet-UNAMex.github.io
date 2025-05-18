@@ -6,7 +6,7 @@
     <description>Recent content on Honeynet UNAMex Lab</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 18 May 2025 14:36:41 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 18 May 2025 15:00:16 +0000</lastBuildDate>
     <atom:link href="https://honeynet.org.mx/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>UNAMex participation in The Honeynet Project Workshop 2025!</title>
@@ -83,7 +83,7 @@
       <link>https://honeynet.org.mx/projects/tsu/</link>
       <pubDate>Mon, 17 Mar 2025 00:00:00 +0000</pubDate>
       <guid>https://honeynet.org.mx/projects/tsu/</guid>
-      <description>&lt;h1 id=&#34;unam-security-telescope-archive&#34;&gt;UNAM Security Telescope (Archive)&lt;/h1&gt;&#xA;&lt;p&gt;&lt;img src=&#34;https://honeynet.org.mx/images/logo_honeynet_simple.png&#34; alt=&#34;image info&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;Back in 2009-2010, the Intrusion Detection department of the UNAM-CERT, designed and developed the &lt;ins&gt;&lt;strong&gt;UNAM Security Telescope&lt;/strong&gt;&lt;/ins&gt;, which was a hybrid of a Network Telescope and a large-scale Honeypot/Sinkhole Darknet with dynamic public IP assigment (between around 45-50k public IP addresses via NOC routing).&lt;/p&gt;&#xA;&lt;p&gt;This Security Telescope allowed to gather very valuable data which was translated into security intelligence to action incident reponse, monitoring, detection logics and malware analysis.&lt;/p&gt;</description>
+      <description>&lt;h1 id=&#34;unam-security-telescope-archive&#34;&gt;UNAM Security Telescope (Archive)&lt;/h1&gt;&#xA;&lt;p&gt;&lt;img src=&#34;https://honeynet.org.mx/images/logo_honeynet_simple.png&#34; alt=&#34;image info&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;Back in 2009-2010, the Intrusion Detection department of &lt;strong&gt;UNAM-CERT&lt;/strong&gt; designed and developed the &lt;ins&gt;&lt;strong&gt;UNAM Security Telescope&lt;/strong&gt;&lt;/ins&gt;, a hybrid of a network telescope and a large-scale honeypot/sinkhole darknet. It featured dynamic public IP assignment, managing approximately 45,000 to 50,000 public IP addresses via NOC routing.&lt;/p&gt;&#xA;&lt;p&gt;This Security Telescope enabled the collection of valuable data that was transformed into actionable security intelligence used for incident response, monitoring, detection logic development, and malware analysis.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Blog</title>
